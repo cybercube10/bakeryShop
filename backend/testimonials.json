@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "name": "John Doe",
+    "feedback": "This product is amazing! Highly recommend it.",
+    "position": "Software Engineer"
+  },
+  {
+    "id": 2,
+    "name": "Jane Smith",
+    "feedback": "Great quality and fantastic customer service.",
+    "position": "Project Manager"
+  },
+  {
+    "id": 3,
+    "name": "Alice Johnson",
+    "feedback": "Exceeded my expectations in every way.",
+    "position": "Designer"
+  }
+]
